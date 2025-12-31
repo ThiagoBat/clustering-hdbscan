@@ -45,8 +45,8 @@ esse valor pode ser utilizado para realizar as consultas a API.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/ThiagoBat/clustering-hdbscan-pologastronomico-rmf-fortaleza-ce.git
-cd clustering-hdbscan-pologastronomico-rmf-fortaleza-ce
+git clone https://github.com/ThiagoBat/clustering-hdbscan.git
+cd clustering-hdbscan
 ```
 
 2. Crie um ambiente virtual (recomendado):
@@ -215,5 +215,5 @@ O projeto utiliza **HDBSCAN** (Hierarchical Density-Based Spatial Clustering of 
 ## 👤 Autor
 
 Thiago Ramos Batista
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: [@ThiagoBat](https://github.com/ThiagoBat)
+- LinkedIn: [ThiagoBatista](https://linkedin.com/in/thiago-ramos-batista-74798b177)
