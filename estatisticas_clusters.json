@@ -1,0 +1,1082 @@
+[
+  {
+    "cluster_id": 89,
+    "num_estabelecimentos": 70,
+    "centroide": [
+      -3.7333637071428583,
+      -38.489617428571435
+    ],
+    "avg_rating": 4.45072463768116,
+    "raio_km": 0.4267243102751744,
+    "densidade": 122.36392442056749,
+    "nome_polo": "Polo 1"
+  },
+  {
+    "cluster_id": 79,
+    "num_estabelecimentos": 36,
+    "centroide": [
+      -3.741063127777778,
+      -38.47154518333334
+    ],
+    "avg_rating": 4.211428571428572,
+    "raio_km": 0.3068741100790372,
+    "densidade": 121.68362191057521,
+    "nome_polo": "Polo 2"
+  },
+  {
+    "cluster_id": 78,
+    "num_estabelecimentos": 34,
+    "centroide": [
+      -3.7490111676470583,
+      -38.47180206764705
+    ],
+    "avg_rating": 4.580645161290323,
+    "raio_km": 0.4135221038029957,
+    "densidade": 63.289488688321576,
+    "nome_polo": "Polo 3"
+  },
+  {
+    "cluster_id": 38,
+    "num_estabelecimentos": 15,
+    "centroide": [
+      -3.855579873333333,
+      -38.50142725333333
+    ],
+    "avg_rating": 4.769230769230769,
+    "raio_km": 0.2859121470868208,
+    "densidade": 58.40851605083016,
+    "nome_polo": "Polo 4"
+  },
+  {
+    "cluster_id": 28,
+    "num_estabelecimentos": 36,
+    "centroide": [
+      -3.9036164611111115,
+      -38.45063304444444
+    ],
+    "avg_rating": 4.7,
+    "raio_km": 0.44964350236070555,
+    "densidade": 56.67819148973825,
+    "nome_polo": "Polo 5"
+  },
+  {
+    "cluster_id": 87,
+    "num_estabelecimentos": 10,
+    "centroide": [
+      -3.73267174,
+      -38.50818625
+    ],
+    "avg_rating": 4.38,
+    "raio_km": 0.2411007824001846,
+    "densidade": 54.7586695710579,
+    "nome_polo": "Polo 6"
+  },
+  {
+    "cluster_id": 54,
+    "num_estabelecimentos": 14,
+    "centroide": [
+      -3.8874119214285705,
+      -38.63370567142857
+    ],
+    "avg_rating": 4.644444444444444,
+    "raio_km": 0.30665344823285545,
+    "densidade": 47.389536150641206,
+    "nome_polo": "Polo 7"
+  },
+  {
+    "cluster_id": 39,
+    "num_estabelecimentos": 24,
+    "centroide": [
+      -3.7966543333333327,
+      -38.467568804166675
+    ],
+    "avg_rating": 4.4799999999999995,
+    "raio_km": 0.4051186627030918,
+    "densidade": 46.547554406301664,
+    "nome_polo": "Polo 8"
+  },
+  {
+    "cluster_id": 47,
+    "num_estabelecimentos": 41,
+    "centroide": [
+      -3.859408153658536,
+      -38.63535747317073
+    ],
+    "avg_rating": 4.435294117647059,
+    "raio_km": 0.5314995717037951,
+    "densidade": 46.198528868458396,
+    "nome_polo": "Polo 9"
+  },
+  {
+    "cluster_id": 27,
+    "num_estabelecimentos": 55,
+    "centroide": [
+      -3.8900756327272736,
+      -38.45243563818181
+    ],
+    "avg_rating": 4.5346153846153845,
+    "raio_km": 0.6161100160570862,
+    "densidade": 46.12074123655042,
+    "nome_polo": "Polo 10"
+  },
+  {
+    "cluster_id": 46,
+    "num_estabelecimentos": 24,
+    "centroide": [
+      -3.8572735666666667,
+      -38.647591954166664
+    ],
+    "avg_rating": 4.705,
+    "raio_km": 0.41524663503517106,
+    "densidade": 44.304631161398774,
+    "nome_polo": "Polo 11"
+  },
+  {
+    "cluster_id": 84,
+    "num_estabelecimentos": 32,
+    "centroide": [
+      -3.7267537906250006,
+      -38.52744232812499
+    ],
+    "avg_rating": 4.375,
+    "raio_km": 0.48303006837517776,
+    "densidade": 43.656787337442545,
+    "nome_polo": "Polo 12"
+  },
+  {
+    "cluster_id": 40,
+    "num_estabelecimentos": 74,
+    "centroide": [
+      -3.7923747391891878,
+      -38.478511528378384
+    ],
+    "avg_rating": 4.430882352941176,
+    "raio_km": 0.7499530531395445,
+    "densidade": 41.88067686174896,
+    "nome_polo": "Polo 13"
+  },
+  {
+    "cluster_id": 35,
+    "num_estabelecimentos": 26,
+    "centroide": [
+      -3.7970697923076915,
+      -38.49987514615385
+    ],
+    "avg_rating": 4.332,
+    "raio_km": 0.44987244528907583,
+    "densidade": 40.89259661458646,
+    "nome_polo": "Polo 14"
+  },
+  {
+    "cluster_id": 72,
+    "num_estabelecimentos": 39,
+    "centroide": [
+      -3.750941933333334,
+      -38.52751188205128
+    ],
+    "avg_rating": 4.405263157894737,
+    "raio_km": 0.5595864078692335,
+    "densidade": 39.64426952977332,
+    "nome_polo": "Polo 15"
+  },
+  {
+    "cluster_id": 41,
+    "num_estabelecimentos": 45,
+    "centroide": [
+      -3.83430602,
+      -38.5202256288889
+    ],
+    "avg_rating": 4.395121951219512,
+    "raio_km": 0.6128446232798306,
+    "densidade": 38.138348300156636,
+    "nome_polo": "Polo 16"
+  },
+  {
+    "cluster_id": 71,
+    "num_estabelecimentos": 20,
+    "centroide": [
+      -3.7402895449999995,
+      -38.592471075
+    ],
+    "avg_rating": 4.410526315789474,
+    "raio_km": 0.41198404706349095,
+    "densidade": 37.50760415582701,
+    "nome_polo": "Polo 17"
+  },
+  {
+    "cluster_id": 32,
+    "num_estabelecimentos": 56,
+    "centroide": [
+      -3.828676712499999,
+      -38.46316774285714
+    ],
+    "avg_rating": 4.591666666666667,
+    "raio_km": 0.705614131207655,
+    "densidade": 35.80169717559431,
+    "nome_polo": "Polo 18"
+  },
+  {
+    "cluster_id": 57,
+    "num_estabelecimentos": 88,
+    "centroide": [
+      -3.841773680681819,
+      -38.554763913636364
+    ],
+    "avg_rating": 4.510294117647058,
+    "raio_km": 0.8852409477129893,
+    "densidade": 35.74454807393799,
+    "nome_polo": "Polo 19"
+  },
+  {
+    "cluster_id": 85,
+    "num_estabelecimentos": 72,
+    "centroide": [
+      -3.7208325930555564,
+      -38.51417630277777
+    ],
+    "avg_rating": 4.453225806451614,
+    "raio_km": 0.8053956504152769,
+    "densidade": 35.33166175061784,
+    "nome_polo": "Polo 20"
+  },
+  {
+    "cluster_id": 58,
+    "num_estabelecimentos": 58,
+    "centroide": [
+      -3.8269897241379307,
+      -38.558278098275856
+    ],
+    "avg_rating": 4.536842105263158,
+    "raio_km": 0.750970487484381,
+    "densidade": 32.73651023238361,
+    "nome_polo": "Polo 21"
+  },
+  {
+    "cluster_id": 33,
+    "num_estabelecimentos": 37,
+    "centroide": [
+      -3.817553032432433,
+      -38.49726957027026
+    ],
+    "avg_rating": 4.348387096774193,
+    "raio_km": 0.6050678557267589,
+    "densidade": 32.169453872976234,
+    "nome_polo": "Polo 22"
+  },
+  {
+    "cluster_id": 83,
+    "num_estabelecimentos": 81,
+    "centroide": [
+      -3.724830922222222,
+      -38.474009724691356
+    ],
+    "avg_rating": 4.435294117647059,
+    "raio_km": 0.9023986044373209,
+    "densidade": 31.661997930980863,
+    "nome_polo": "Polo 23"
+  },
+  {
+    "cluster_id": 64,
+    "num_estabelecimentos": 48,
+    "centroide": [
+      -3.7566381958333337,
+      -38.488727152083335
+    ],
+    "avg_rating": 4.108333333333333,
+    "raio_km": 0.7241973371332483,
+    "densidade": 29.13248406050498,
+    "nome_polo": "Polo 24"
+  },
+  {
+    "cluster_id": 66,
+    "num_estabelecimentos": 54,
+    "centroide": [
+      -3.891167199999999,
+      -38.612979244444446
+    ],
+    "avg_rating": 4.602127659574467,
+    "raio_km": 0.7995145786453213,
+    "densidade": 26.890019220338225,
+    "nome_polo": "Polo 25"
+  },
+  {
+    "cluster_id": 25,
+    "num_estabelecimentos": 11,
+    "centroide": [
+      -3.852889054545454,
+      -38.456464227272726
+    ],
+    "avg_rating": 4.709090909090909,
+    "raio_km": 0.3624910698540091,
+    "densidade": 26.646991813584393,
+    "nome_polo": "Polo 26"
+  },
+  {
+    "cluster_id": 75,
+    "num_estabelecimentos": 9,
+    "centroide": [
+      -3.7424795555555557,
+      -38.536140055555556
+    ],
+    "avg_rating": 4.511111111111111,
+    "raio_km": 0.33192793190334036,
+    "densidade": 26.001897182212502,
+    "nome_polo": "Polo 27"
+  },
+  {
+    "cluster_id": 17,
+    "num_estabelecimentos": 31,
+    "centroide": [
+      -3.8735810741935484,
+      -38.516437216129034
+    ],
+    "avg_rating": 4.561904761904762,
+    "raio_km": 0.6240714469676775,
+    "densidade": 25.336300158444818,
+    "nome_polo": "Polo 28"
+  },
+  {
+    "cluster_id": 88,
+    "num_estabelecimentos": 24,
+    "centroide": [
+      -3.7260435041666664,
+      -38.49642227083332
+    ],
+    "avg_rating": 4.483333333333333,
+    "raio_km": 0.5585122650423046,
+    "densidade": 24.49040344162681,
+    "nome_polo": "Polo 29"
+  },
+  {
+    "cluster_id": 63,
+    "num_estabelecimentos": 61,
+    "centroide": [
+      -3.800503162295083,
+      -38.5697727967213
+    ],
+    "avg_rating": 4.305172413793104,
+    "raio_km": 0.9002898473766358,
+    "densidade": 23.95605255117478,
+    "nome_polo": "Polo 30"
+  },
+  {
+    "cluster_id": 62,
+    "num_estabelecimentos": 49,
+    "centroide": [
+      -3.7613263448979586,
+      -38.62250794081633
+    ],
+    "avg_rating": 4.452272727272727,
+    "raio_km": 0.8183771844841511,
+    "densidade": 23.288374745992513,
+    "nome_polo": "Polo 31"
+  },
+  {
+    "cluster_id": 42,
+    "num_estabelecimentos": 100,
+    "centroide": [
+      -3.8493793149999993,
+      -38.519220975
+    ],
+    "avg_rating": 4.537209302325581,
+    "raio_km": 1.1879287361517286,
+    "densidade": 22.556377336162225,
+    "nome_polo": "Polo 32"
+  },
+  {
+    "cluster_id": 14,
+    "num_estabelecimentos": 56,
+    "centroide": [
+      -3.626618887499999,
+      -38.72782140178572
+    ],
+    "avg_rating": 4.551851851851852,
+    "raio_km": 0.8892210108086372,
+    "densidade": 22.543363959155663,
+    "nome_polo": "Polo 33"
+  },
+  {
+    "cluster_id": 60,
+    "num_estabelecimentos": 9,
+    "centroide": [
+      -3.8092187,
+      -38.55615505555555
+    ],
+    "avg_rating": 4.411111111111111,
+    "raio_km": 0.3584789326865068,
+    "densidade": 22.292838049122736,
+    "nome_polo": "Polo 34"
+  },
+  {
+    "cluster_id": 70,
+    "num_estabelecimentos": 61,
+    "centroide": [
+      -3.7672305081967226,
+      -38.44059145081969
+    ],
+    "avg_rating": 4.5249999999999995,
+    "raio_km": 0.9382177955822132,
+    "densidade": 22.058330020849137,
+    "nome_polo": "Polo 35"
+  },
+  {
+    "cluster_id": 5,
+    "num_estabelecimentos": 114,
+    "centroide": [
+      -3.9069772833333314,
+      -38.385362571052625
+    ],
+    "avg_rating": 4.478651685393258,
+    "raio_km": 1.299322087426218,
+    "densidade": 21.494202509665914,
+    "nome_polo": "Polo 36"
+  },
+  {
+    "cluster_id": 29,
+    "num_estabelecimentos": 45,
+    "centroide": [
+      -3.8473051577777793,
+      -38.61436160888888
+    ],
+    "avg_rating": 4.552777777777778,
+    "raio_km": 0.8167470311147526,
+    "densidade": 21.47274230296956,
+    "nome_polo": "Polo 37"
+  },
+  {
+    "cluster_id": 86,
+    "num_estabelecimentos": 23,
+    "centroide": [
+      -3.7370123826086954,
+      -38.50196024347826
+    ],
+    "avg_rating": 4.556521739130434,
+    "raio_km": 0.590187531946175,
+    "densidade": 21.01831527859292,
+    "nome_polo": "Polo 38"
+  },
+  {
+    "cluster_id": 26,
+    "num_estabelecimentos": 80,
+    "centroide": [
+      -3.870840782500001,
+      -38.46622233250001
+    ],
+    "avg_rating": 4.234666666666667,
+    "raio_km": 1.1043122523301783,
+    "densidade": 20.881242304475336,
+    "nome_polo": "Polo 39"
+  },
+  {
+    "cluster_id": 51,
+    "num_estabelecimentos": 52,
+    "centroide": [
+      -3.7866570076923085,
+      -38.62610163269231
+    ],
+    "avg_rating": 4.580487804878048,
+    "raio_km": 0.9445834603972298,
+    "densidade": 18.551233732865835,
+    "nome_polo": "Polo 40"
+  },
+  {
+    "cluster_id": 4,
+    "num_estabelecimentos": 29,
+    "centroide": [
+      -3.935892355172413,
+      -38.38841021724138
+    ],
+    "avg_rating": 4.526315789473684,
+    "raio_km": 0.7079625367818342,
+    "densidade": 18.4173682460778,
+    "nome_polo": "Polo 41"
+  },
+  {
+    "cluster_id": 82,
+    "num_estabelecimentos": 49,
+    "centroide": [
+      -3.711743683673469,
+      -38.467287099999986
+    ],
+    "avg_rating": 4.517142857142857,
+    "raio_km": 0.9229843328342776,
+    "densidade": 18.30870170546821,
+    "nome_polo": "Polo 42"
+  },
+  {
+    "cluster_id": 73,
+    "num_estabelecimentos": 182,
+    "centroide": [
+      -3.7186783318681327,
+      -38.5950057324176
+    ],
+    "avg_rating": 4.58875,
+    "raio_km": 1.784713651810988,
+    "densidade": 18.18797815341507,
+    "nome_polo": "Polo 43"
+  },
+  {
+    "cluster_id": 18,
+    "num_estabelecimentos": 30,
+    "centroide": [
+      -3.8824077066666667,
+      -38.531534103333335
+    ],
+    "avg_rating": 4.579166666666667,
+    "raio_km": 0.7249973136637586,
+    "densidade": 18.16764299978015,
+    "nome_polo": "Polo 44"
+  },
+  {
+    "cluster_id": 36,
+    "num_estabelecimentos": 84,
+    "centroide": [
+      -3.832990926190476,
+      -38.48851143095237
+    ],
+    "avg_rating": 4.421951219512195,
+    "raio_km": 1.2176912791752945,
+    "densidade": 18.032461843721336,
+    "nome_polo": "Polo 45"
+  },
+  {
+    "cluster_id": 13,
+    "num_estabelecimentos": 36,
+    "centroide": [
+      -3.9154980944444446,
+      -38.59882891388889
+    ],
+    "avg_rating": 4.479166666666667,
+    "raio_km": 0.8058112731313737,
+    "densidade": 17.64761215006166,
+    "nome_polo": "Polo 46"
+  },
+  {
+    "cluster_id": 34,
+    "num_estabelecimentos": 32,
+    "centroide": [
+      -3.8013978093749996,
+      -38.4903527875
+    ],
+    "avg_rating": 4.39375,
+    "raio_km": 0.7736760533193153,
+    "densidade": 17.016952864561965,
+    "nome_polo": "Polo 47"
+  },
+  {
+    "cluster_id": 56,
+    "num_estabelecimentos": 35,
+    "centroide": [
+      -3.7784475142857143,
+      -38.560670751428574
+    ],
+    "avg_rating": 4.202941176470588,
+    "raio_km": 0.8458517060276546,
+    "densidade": 15.571473552903377,
+    "nome_polo": "Polo 48"
+  },
+  {
+    "cluster_id": 49,
+    "num_estabelecimentos": 129,
+    "centroide": [
+      -3.8647530976744178,
+      -38.58542200697674
+    ],
+    "avg_rating": 4.514285714285714,
+    "raio_km": 1.6462752628935422,
+    "densidade": 15.150777930040803,
+    "nome_polo": "Polo 49"
+  },
+  {
+    "cluster_id": 53,
+    "num_estabelecimentos": 23,
+    "centroide": [
+      -3.8354415347826083,
+      -38.57331486521739
+    ],
+    "avg_rating": 4.695,
+    "raio_km": 0.699489790503112,
+    "densidade": 14.962880351638093,
+    "nome_polo": "Polo 50"
+  },
+  {
+    "cluster_id": 48,
+    "num_estabelecimentos": 151,
+    "centroide": [
+      -3.767669854304637,
+      -38.65391135894039
+    ],
+    "avg_rating": 4.484444444444445,
+    "raio_km": 1.8038965906031608,
+    "densidade": 14.770792564567854,
+    "nome_polo": "Polo 51"
+  },
+  {
+    "cluster_id": 21,
+    "num_estabelecimentos": 241,
+    "centroide": [
+      -3.7303773473029054,
+      -38.657195464315365
+    ],
+    "avg_rating": 4.535467980295567,
+    "raio_km": 2.338756725069364,
+    "densidade": 14.024812739924089,
+    "nome_polo": "Polo 52"
+  },
+  {
+    "cluster_id": 31,
+    "num_estabelecimentos": 11,
+    "centroide": [
+      -3.8181274090909088,
+      -38.473331236363634
+    ],
+    "avg_rating": 4.611111111111111,
+    "raio_km": 0.5169685069951808,
+    "densidade": 13.101307434837121,
+    "nome_polo": "Polo 53"
+  },
+  {
+    "cluster_id": 80,
+    "num_estabelecimentos": 125,
+    "centroide": [
+      -3.699586207199999,
+      -38.58075911919999
+    ],
+    "avg_rating": 4.607476635514018,
+    "raio_km": 1.7676528851099973,
+    "densidade": 12.734038760841722,
+    "nome_polo": "Polo 54"
+  },
+  {
+    "cluster_id": 12,
+    "num_estabelecimentos": 24,
+    "centroide": [
+      -3.930397179166668,
+      -38.60536725833334
+    ],
+    "avg_rating": 4.723076923076923,
+    "raio_km": 0.7810940491739997,
+    "densidade": 12.521452512629502,
+    "nome_polo": "Polo 55"
+  },
+  {
+    "cluster_id": 7,
+    "num_estabelecimentos": 21,
+    "centroide": [
+      -3.822358838095237,
+      -38.66470997619049
+    ],
+    "avg_rating": 4.38,
+    "raio_km": 0.7326132784888771,
+    "densidade": 12.454315124014796,
+    "nome_polo": "Polo 56"
+  },
+  {
+    "cluster_id": 37,
+    "num_estabelecimentos": 68,
+    "centroide": [
+      -3.856785047058822,
+      -38.48801247205882
+    ],
+    "avg_rating": 4.461818181818182,
+    "raio_km": 1.3282454249435138,
+    "densidade": 12.26880835579263,
+    "nome_polo": "Polo 57"
+  },
+  {
+    "cluster_id": 19,
+    "num_estabelecimentos": 128,
+    "centroide": [
+      -3.903048833593749,
+      -38.51551257265625
+    ],
+    "avg_rating": 4.546666666666667,
+    "raio_km": 1.8322815944911905,
+    "densidade": 12.136002543430092,
+    "nome_polo": "Polo 58"
+  },
+  {
+    "cluster_id": 81,
+    "num_estabelecimentos": 112,
+    "centroide": [
+      -3.7130513267857137,
+      -38.553247125
+    ],
+    "avg_rating": 4.533695652173913,
+    "raio_km": 1.7319471632697354,
+    "densidade": 11.884991415162192,
+    "nome_polo": "Polo 59"
+  },
+  {
+    "cluster_id": 65,
+    "num_estabelecimentos": 20,
+    "centroide": [
+      -3.8379338150000004,
+      -38.59201098
+    ],
+    "avg_rating": 4.689473684210526,
+    "raio_km": 0.7565654557339674,
+    "densidade": 11.122107984752398,
+    "nome_polo": "Polo 60"
+  },
+  {
+    "cluster_id": 76,
+    "num_estabelecimentos": 45,
+    "centroide": [
+      -3.7513094733333334,
+      -38.50640222444444
+    ],
+    "avg_rating": 4.228888888888889,
+    "raio_km": 1.1468929938769148,
+    "densidade": 10.889723220366417,
+    "nome_polo": "Polo 61"
+  },
+  {
+    "cluster_id": 67,
+    "num_estabelecimentos": 105,
+    "centroide": [
+      -3.8792999285714282,
+      -38.618113272380945
+    ],
+    "avg_rating": 4.424731182795699,
+    "raio_km": 1.759931695995004,
+    "densidade": 10.79065482862486,
+    "nome_polo": "Polo 62"
+  },
+  {
+    "cluster_id": 20,
+    "num_estabelecimentos": 21,
+    "centroide": [
+      -3.8662683857142857,
+      -38.444091928571424
+    ],
+    "avg_rating": 4.588235294117647,
+    "raio_km": 0.7990767137959918,
+    "densidade": 10.468693196481498,
+    "nome_polo": "Polo 63"
+  },
+  {
+    "cluster_id": 22,
+    "num_estabelecimentos": 14,
+    "centroide": [
+      -3.695268492857143,
+      -38.642650342857145
+    ],
+    "avg_rating": 4.790909090909091,
+    "raio_km": 0.6569617967373673,
+    "densidade": 10.325187146205455,
+    "nome_polo": "Polo 64"
+  },
+  {
+    "cluster_id": 43,
+    "num_estabelecimentos": 97,
+    "centroide": [
+      -3.770538567010309,
+      -38.577077171134
+    ],
+    "avg_rating": 4.3968750000000005,
+    "raio_km": 1.7496909610945703,
+    "densidade": 10.085540206262452,
+    "nome_polo": "Polo 65"
+  },
+  {
+    "cluster_id": 6,
+    "num_estabelecimentos": 22,
+    "centroide": [
+      -3.841103068181819,
+      -38.43019810909091
+    ],
+    "avg_rating": 4.585,
+    "raio_km": 0.8376507730147065,
+    "densidade": 9.980374109276655,
+    "nome_polo": "Polo 66"
+  },
+  {
+    "cluster_id": 30,
+    "num_estabelecimentos": 17,
+    "centroide": [
+      -3.773776511764706,
+      -38.477439047058816
+    ],
+    "avg_rating": 4.6,
+    "raio_km": 0.7404893801699781,
+    "densidade": 9.868732559982478,
+    "nome_polo": "Polo 67"
+  },
+  {
+    "cluster_id": 45,
+    "num_estabelecimentos": 13,
+    "centroide": [
+      -3.8097482076923077,
+      -38.52279363076923
+    ],
+    "avg_rating": 4.5,
+    "raio_km": 0.6646968981449589,
+    "densidade": 9.365827946657337,
+    "nome_polo": "Polo 68"
+  },
+  {
+    "cluster_id": 10,
+    "num_estabelecimentos": 211,
+    "centroide": [
+      -3.889530361137442,
+      -38.67823599526064
+    ],
+    "avg_rating": 4.662275449101797,
+    "raio_km": 2.7017951126465714,
+    "densidade": 9.200845945015356,
+    "nome_polo": "Polo 69"
+  },
+  {
+    "cluster_id": 74,
+    "num_estabelecimentos": 112,
+    "centroide": [
+      -3.73612515267857,
+      -38.558464917857144
+    ],
+    "avg_rating": 4.402678571428572,
+    "raio_km": 1.9728618541325573,
+    "densidade": 9.159563938867793,
+    "nome_polo": "Polo 70"
+  },
+  {
+    "cluster_id": 69,
+    "num_estabelecimentos": 47,
+    "centroide": [
+      -3.8150597510638287,
+      -38.59086825531915
+    ],
+    "avg_rating": 4.579069767441861,
+    "raio_km": 1.29770595752972,
+    "densidade": 8.883730771373408,
+    "nome_polo": "Polo 71"
+  },
+  {
+    "cluster_id": 16,
+    "num_estabelecimentos": 43,
+    "centroide": [
+      -3.926403395348838,
+      -38.50975639767442
+    ],
+    "avg_rating": 4.627272727272728,
+    "raio_km": 1.2800389872701055,
+    "densidade": 8.353571377484005,
+    "nome_polo": "Polo 72"
+  },
+  {
+    "cluster_id": 77,
+    "num_estabelecimentos": 49,
+    "centroide": [
+      -3.736395238775511,
+      -38.45541730000001
+    ],
+    "avg_rating": 4.595652173913043,
+    "raio_km": 1.3820782176825674,
+    "densidade": 8.165465772983094,
+    "nome_polo": "Polo 73"
+  },
+  {
+    "cluster_id": 55,
+    "num_estabelecimentos": 59,
+    "centroide": [
+      -3.7626702237288137,
+      -38.545956935593225
+    ],
+    "avg_rating": 4.5,
+    "raio_km": 1.530669404306969,
+    "densidade": 8.015660898008573,
+    "nome_polo": "Polo 74"
+  },
+  {
+    "cluster_id": 23,
+    "num_estabelecimentos": 102,
+    "centroide": [
+      -3.675306685294118,
+      -38.669301244117634
+    ],
+    "avg_rating": 4.53855421686747,
+    "raio_km": 2.036595630858219,
+    "densidade": 7.827817351549037,
+    "nome_polo": "Polo 75"
+  },
+  {
+    "cluster_id": 68,
+    "num_estabelecimentos": 69,
+    "centroide": [
+      -3.8186431449275364,
+      -38.618408552173925
+    ],
+    "avg_rating": 4.607142857142857,
+    "raio_km": 1.7224662982526702,
+    "densidade": 7.402829577942134,
+    "nome_polo": "Polo 76"
+  },
+  {
+    "cluster_id": 15,
+    "num_estabelecimentos": 54,
+    "centroide": [
+      -3.6451085851851848,
+      -38.701479472222225
+    ],
+    "avg_rating": 4.584090909090909,
+    "raio_km": 1.5253398476132218,
+    "densidade": 7.387723886981899,
+    "nome_polo": "Polo 77"
+  },
+  {
+    "cluster_id": 59,
+    "num_estabelecimentos": 83,
+    "centroide": [
+      -3.795127871084339,
+      -38.53992392771086
+    ],
+    "avg_rating": 4.459493670886076,
+    "raio_km": 1.9348824130258029,
+    "densidade": 7.056982905018325,
+    "nome_polo": "Polo 78"
+  },
+  {
+    "cluster_id": 44,
+    "num_estabelecimentos": 19,
+    "centroide": [
+      -3.8463654947368426,
+      -38.65640707368421
+    ],
+    "avg_rating": 4.375,
+    "raio_km": 0.930992035945866,
+    "densidade": 6.977692016281781,
+    "nome_polo": "Polo 79"
+  },
+  {
+    "cluster_id": 61,
+    "num_estabelecimentos": 71,
+    "centroide": [
+      -3.7703268816901416,
+      -38.60719523661971
+    ],
+    "avg_rating": 4.4750000000000005,
+    "raio_km": 1.8182794658123846,
+    "densidade": 6.8357663147734655,
+    "nome_polo": "Polo 80"
+  },
+  {
+    "cluster_id": 24,
+    "num_estabelecimentos": 42,
+    "centroide": [
+      -3.6924086714285727,
+      -38.61629697857143
+    ],
+    "avg_rating": 4.603125,
+    "raio_km": 1.414601783700072,
+    "densidade": 6.680839139550971,
+    "nome_polo": "Polo 81"
+  },
+  {
+    "cluster_id": 52,
+    "num_estabelecimentos": 40,
+    "centroide": [
+      -3.7441371850000005,
+      -38.608605902499995
+    ],
+    "avg_rating": 4.57027027027027,
+    "raio_km": 1.4611929551852005,
+    "densidade": 5.963414256692417,
+    "nome_polo": "Polo 82"
+  },
+  {
+    "cluster_id": 50,
+    "num_estabelecimentos": 22,
+    "centroide": [
+      -3.7937919318181814,
+      -38.6100811590909
+    ],
+    "avg_rating": 4.431578947368421,
+    "raio_km": 1.1375368182184855,
+    "densidade": 5.41180181203724,
+    "nome_polo": "Polo 83"
+  },
+  {
+    "cluster_id": 3,
+    "num_estabelecimentos": 61,
+    "centroide": [
+      -3.8435564081967213,
+      -38.395673631147545
+    ],
+    "avg_rating": 4.333333333333333,
+    "raio_km": 2.082227943134441,
+    "densidade": 4.478405573810679,
+    "nome_polo": "Polo 84"
+  },
+  {
+    "cluster_id": 2,
+    "num_estabelecimentos": 29,
+    "centroide": [
+      -3.9566151310344826,
+      -38.473710234482766
+    ],
+    "avg_rating": 4.495454545454546,
+    "raio_km": 1.492648343720581,
+    "densidade": 4.143173482624334,
+    "nome_polo": "Polo 85"
+  },
+  {
+    "cluster_id": 11,
+    "num_estabelecimentos": 63,
+    "centroide": [
+      -3.731659406349206,
+      -38.69736948571428
+    ],
+    "avg_rating": 4.656818181818182,
+    "raio_km": 2.328493222503333,
+    "densidade": 3.6986285730629738,
+    "nome_polo": "Polo 86"
+  },
+  {
+    "cluster_id": 8,
+    "num_estabelecimentos": 20,
+    "centroide": [
+      -3.777608465,
+      -38.682844645
+    ],
+    "avg_rating": 4.523076923076923,
+    "raio_km": 1.3682132253815402,
+    "densidade": 3.400733149496783,
+    "nome_polo": "Polo 87"
+  },
+  {
+    "cluster_id": 0,
+    "num_estabelecimentos": 37,
+    "centroide": [
+      -3.949772581081081,
+      -38.694761064864856
+    ],
+    "avg_rating": 4.724,
+    "raio_km": 2.16949923315295,
+    "densidade": 2.5022623964268917,
+    "nome_polo": "Polo 88"
+  },
+  {
+    "cluster_id": 9,
+    "num_estabelecimentos": 29,
+    "centroide": [
+      -3.808826448275861,
+      -38.42768337931034
+    ],
+    "avg_rating": 4.6080000000000005,
+    "raio_km": 2.20425248834179,
+    "densidade": 1.8998768274271043,
+    "nome_polo": "Polo 89"
+  },
+  {
+    "cluster_id": 1,
+    "num_estabelecimentos": 33,
+    "centroide": [
+      -3.9659078606060603,
+      -38.52257670303031
+    ],
+    "avg_rating": 4.613636363636363,
+    "raio_km": 2.645161892070205,
+    "densidade": 1.501272579971068,
+    "nome_polo": "Polo 90"
+  }
+]
