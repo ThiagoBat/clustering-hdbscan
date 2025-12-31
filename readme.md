@@ -45,8 +45,8 @@ esse valor pode ser utilizado para realizar as consultas a API.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/analise-polos-gastronomicos.git
-cd analise-polos-gastronomicos
+git clone https://github.com/ThiagoBat/clustering-hdbscan-pologastronomico-rmf-fortaleza-ce.git
+cd clustering-hdbscan-pologastronomico-rmf-fortaleza-ce
 ```
 
 2. Crie um ambiente virtual (recomendado):

@@ -22,7 +22,7 @@ from sklearn.metrics import silhouette_score, davies_bouldin_score, calinski_har
 import matplotlib
 matplotlib.use('Agg')
 
-API_KEY = "AIzaSyBe0KTLFm9ronP6to8iGkthPLvjBYuWPn4"
+API_KEY = ""
 
 LATITUDE_MINIMA = -3.9500
 LATITUDE_MAXIMA = -3.6100
